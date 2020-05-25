@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590415051 source:/home/ninko/Documents/git/openclassroomC/06_bool/main.c
+	<stdio.h>
+	<stdlib.h>
+
