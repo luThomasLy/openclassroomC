@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590501888 source:/home/ninko/Documents/git/openclassroomC/10_tp_plus_moins/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
