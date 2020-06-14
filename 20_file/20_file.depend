@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590934216 source:/home/ninko/Documents/git/openclassroomC/20_file/main.c
+	<stdio.h>
+	<stdlib.h>
+

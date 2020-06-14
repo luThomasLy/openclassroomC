@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591118842 source:/home/ninko/Documents/git/openclassroomC/25_exo_le_pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<dico.h>
+
+1591118844 /home/ninko/Documents/git/openclassroomC/25_exo_le_pendu/include/dico.h
+
+1591118828 source:/home/ninko/Documents/git/openclassroomC/25_exo_le_pendu/src/dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+

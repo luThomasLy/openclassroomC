@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591113113 source:/home/ninko/Documents/git/openclassroomC/24_allocation_dynamique/main.c
+	<stdio.h>
+	<stdlib.h>
+

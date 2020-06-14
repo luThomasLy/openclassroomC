@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590925995 source:/home/ninko/Documents/git/openclassroomC/17_exo_struct/main.c
+	<stdio.h>
+	<stdlib.h>
+
