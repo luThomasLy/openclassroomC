@@ -70,7 +70,7 @@ void decoupeMinutes(int* pointeurHeures, int* pointeurMinutes);
 
 int main()
 {
-    int heures = 0, minutes = 90;
+    int heures = 0, minutes = 180;
 
     // On envoie l'adresse de heures et minutes
     decoupeMinutes(&heures, &minutes);
@@ -85,8 +85,7 @@ void decoupeMinutes(int* pointeurHeures, int* pointeurMinutes)
 {
     /* Attention à ne pas oublier de mettre une étoile devant le nom
     des pointeurs ! Comme ça, vous pouvez modifier la valeur des variables,
-    et non leur adresse ! Vous ne voudriez pas diviser des adresses,
-    n'est-ce pas ? ;o) */
+    et non leur adresse ! */
     *pointeurHeures = *pointeurMinutes / 60;
     *pointeurMinutes = *pointeurMinutes % 60;
 }
